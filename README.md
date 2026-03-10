@@ -1,4 +1,5 @@
 "# app-firebase-min" 
+<<<<<<< HEAD
 # no App.tsx
 import { auth, db} from "./src/lib/firebase";
 
@@ -31,3 +32,5 @@ Bloco3
 Pega o serviço Firestore daquele app (daquele projeto Firebase)
 É rápido basicamente "cria o cliente" para você usar o collection, addDoc, etc.
 db é o "módulo de banco de dados"
+=======
+>>>>>>> 6d257d798eddffb12c183cdf3add10b9d6603c99
